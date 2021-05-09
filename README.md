@@ -1,4 +1,4 @@
-# NginxStudyBook
+# NGINX-STUDY-BOOK
 
 #### 近来想系统学习Nginx，一方面为了NAA（NGINX Accredited Administrator）的考试认证做做准备，另一方面则是在实际工作中也有涉及。
 
