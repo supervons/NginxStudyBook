@@ -1,6 +1,6 @@
 # NGINX-STUDY-BOOK
 
-#### 近来想系统学习Nginx，一方面为了NAA（NGINX Accredited Administrator）的考试认证做做准备，另一方面则是在实际工作中也有涉及。
+#### 近来想系统学习NGINX，一方面为了NAA（NGINX Accredited Administrator）的考试认证做做准备，另一方面则是在实际工作中也有涉及。
 
 # 目录
 
@@ -8,9 +8,9 @@
 
 ### [1.1 了解 Linux 基本操作系统知识](./chapter_1/1_1.md)
 
-### [1.2 掌握 Nginx 整体产品线及其作用](./chapter_1/1_2.md)
+### [1.2 掌握 NGINX 整体产品线及其作用](./chapter_1/1_2.md)
 
-### [1.3 开源 Nginx 编译与安装，官方预编译安装，Plus 安装，repo 库管理](./chapter_1/1_3.md)
+### [1.3 开源 NGINX 编译与安装，官方预编译安装，Plus 安装，repo 库管理](./chapter_1/1_3.md)
 
 ### [1.4 Plus 指定版本安装，特定社区模块编译](./chapter_1/1_4.md)
 
